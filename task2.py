@@ -1,6 +1,4 @@
-# ==========================================
-# STREAMLIT WEB APP FOR TITANIC PREDICTION
-# ==========================================
+
 
 import streamlit as st
 import numpy as np
